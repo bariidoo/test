@@ -1,0 +1,42 @@
+{
+  "name": "SoDegens AI #0",
+  "symbol": "SD",
+  "description": "They come from underground. 444 unique SoDegens AI airdrop NFTs",
+  "seller_fee_basis_points": 1000,
+  "image": "https://ipfs.io/ipfs/bafybeidye44v42uurbl3jrtfopdkhzj7pdq2zlhncpdipmtb4qzpvvbu74/0.png",
+  "external_url": "",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rainka"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scholar"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Woman"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/bafybeidye44v42uurbl3jrtfopdkhzj7pdq2zlhncpdipmtb4qzpvvbu74/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5afY8SU8XgfrPua8qCW4kxzYuX4vGgPkDz4vqLKtYPJZ",
+        "share": 50
+      },
+      {
+        "address": "9yNc5cXG1JUaL8oY5pm2L1GKpUMZEsZo9TtMeygCXi5B",
+        "share": 50
+      }
+    ]
+  }
+}
